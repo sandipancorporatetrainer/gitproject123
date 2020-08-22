@@ -1,1 +1,3 @@
 this is file6
+2nd line, testing stash
+
