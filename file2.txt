@@ -1,2 +1,6 @@
 My file 2 is ready..
+<<<<<<< Updated upstream
 new line3
+=======
+Awesome Session..
+>>>>>>> Stashed changes
